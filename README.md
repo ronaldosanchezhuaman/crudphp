@@ -13,4 +13,4 @@ Ana is a store app written in native PHP and MySQL to help you learn the basics 
 * Create the database
 * Import `database.sql` to that new database
 * Serve and enjoy! I suggest you use XAMPP to host your app locally.
-
+* configure `/etc/mysql/conf.d/mysql.conf.d/mysqld.cnf`, add `skip-grant-tables`
